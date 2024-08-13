@@ -1,2 +1,2 @@
 # Weather-App
-Weather Program
+Weather Program that takes live data from Open Weater Api
